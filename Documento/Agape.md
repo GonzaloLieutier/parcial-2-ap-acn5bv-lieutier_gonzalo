@@ -122,3 +122,9 @@ Los requerimientos del proyecto surgen de las necesidades de los principales int
 | HU04 | Como coordinador, quiero ver los integrantes inscriptos para organizar mejor el grupo. | Gestionar la participación de los miembros. |
 | HU05 | Como coordinador, quiero publicar novedades para comunicar información importante. | Mantener informados a los integrantes. |
 | HU06 | Como usuario, quiero recibir notificaciones para estar informado sobre actividades y cambios. | Mejorar la comunicación dentro de la comunidad. |
+
+# Tablero de seguimiento
+
+Para realizar el seguimiento del proyecto se va a usar un tablero en Trello. Este tablero permite organizar las historias de usuario, ver el estado de cada tarea y controlar el avance del desarrollo de la aplicación.
+
+https://trello.com/invite/b/6a46d2fbc19ed0e54af1cb20/ATTI2f16c667e0cd82542d69d3fe26c209fa5741C497/agape |
