@@ -151,3 +151,31 @@ https://trello.com/invite/b/6a46d2fbc19ed0e54af1cb20/ATTI2f16c667e0cd82542d69d3f
 | M3 - Gestión y comunicación | M3.2 - Editar información de un grupo | 3 |
 | M3 - Gestión y comunicación | M3.3 - Consultar listado de integrantes | 2 |
 | M3 - Gestión y comunicación | M3.4 - Notificar cambios de actividad | 5 |
+
+# Ajuste en la metodología de trabajo
+
+Durante el desarrollo del proyecto puede aparecer una situación donde sea necesario ajustar la forma de trabajo. En este caso, se plantea una situación relacionada con el flujo de inscripción a los grupos, ya que es una de las funcionalidades principales de la aplicación.
+
+## Situación detectada
+
+Durante una review del sprint, se les muestra a los coordinadores y a algunos miembros de la comunidad el avance del flujo de inscripción. Al probarlo, se detecta que algunos usuarios no entienden bien cómo buscar un grupo, completar la inscripción o confirmar si quedaron anotados.
+
+Esto muestra que, aunque la funcionalidad esté desarrollada, puede no ser lo suficientemente clara para personas con poca experiencia usando aplicaciones.
+
+## Impacto en el proyecto
+
+Este problema afecta directamente al objetivo del proyecto, ya que la aplicación busca que gran parte de las inscripciones a los grupos se realicen desde la plataforma. Si el proceso no es simple, los usuarios podrían volver a usar WhatsApp, formularios o la inscripción presencial.
+
+También puede afectar el alcance del MVP, porque sería necesario mejorar la experiencia de uso antes de seguir avanzando con nuevas funcionalidades.
+
+## Ajuste propuesto
+
+Para adaptar la metodología de trabajo, se va a repriorizar el backlog y se van a agregar tareas de mejora de usabilidad dentro del próximo sprint. Antes de seguir con funcionalidades nuevas, el equipo va a revisar el flujo de inscripción y simplificar los pasos necesarios para anotarse a un grupo.
+
+También se va a incorporar una validación con usuarios al final de cada sprint, para recibir feedback antes de dar por finalizada una funcionalidad. De esta manera, la review no solo sirve para mostrar avances, sino también para detectar problemas de uso.
+
+Desde Kanban, las tareas que necesiten cambios o revisión se van a mover a la columna **En revisión**, para que el equipo pueda visualizar mejor qué elementos todavía no están listos para finalizarse.
+
+## Resultado esperado
+
+Con este ajuste se espera mejorar la claridad del proceso de inscripción, reducir errores de uso y asegurar que la aplicación sea más fácil de utilizar para la comunidad. Además, permite que el equipo mantenga la flexibilidad de la metodología ágil y adapte el trabajo según las necesidades reales de los usuarios.
